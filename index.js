@@ -5,3 +5,6 @@ console.log(b)
 
 let x = 3;
 const n = 3;
+
+
+const an = "ali";
