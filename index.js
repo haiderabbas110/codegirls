@@ -6,5 +6,5 @@ console.log(b)
 let x = 3;
 const n = 3;
 
-
+let abc = 1323;
 const an = "ali";
