@@ -6,5 +6,8 @@ console.log(b)
 let x = 3;
 const n = 3;
 
+const age = 3;
+
+console.log(age);
 
 const an = "ali";
