@@ -10,4 +10,5 @@ const age = 3;
 
 console.log(age);
 
+let abc = 1323;
 const an = "ali";
